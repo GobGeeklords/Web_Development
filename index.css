@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+footer p{
+    font-size: 12px;
+    font-style: italic;
+    color: aqua;
+}
+#author{
+    color: blue;
+    font-weight: bold;
+}
+.HT{
+    background-color: rgb(229, 221, 221) !important;
+}
+.Utdd{
+    background-color: rgb(187, 183, 177);
+    border: 5px dotted;
+    border-bottom-color:blue !important;
+    border-top-color:blue !important;
+    border-left-color:yellowgreen !important;
+    border-right-color:yellowgreen!important;
+}
+body {
+background-color: bisque;
+border-top:25px solid red !important;
+}
+a:link{
+    color:blue;
+    text-decoration: none !important;
+}
+a:hover{
+    color: orangered;
+    font-weight: bold !important;
+    text-decoration:underline rebeccapurple !important; 
+
+}
